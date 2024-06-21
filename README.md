@@ -2,9 +2,9 @@
 Desarrollo de Prototipo de Juego de Autos Cenital
 
 # Objetivos
-- Comprender los conceptos fundamentales de pathfinding en el desarrollo de videojuegos.
-- Explorar las herramientas y algoritmos de pathfinding disponibles en Unity.
-- Aplicar los conocimientos adquiridos proponiendo una idea práctica para la implementación de pathfinding en un prototipo de videojuego.
+- Familiarizarse con el entorno de desarrollo Unity.
+- Aplicar conceptos básicos de programación y animación en Unity.
+- Implementar un prototipo de juego de autos de vista cenital con una carretera circular.
 
 # Enlace de Página de Materiales Utilizados
 - https://www.mixamo.com/#/

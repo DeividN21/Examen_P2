@@ -6,15 +6,15 @@ Desarrollo de Prototipo de Juego de Autos Cenital
 - Aplicar conceptos básicos de programación y animación en Unity.
 - Implementar un prototipo de juego de autos de vista cenital con una carretera circular.
 
-# Enlaces de Assets y Ambientes Utilizados en el Proyecto:
-### Árboles:
-- https://assetstore.unity.com/packages/3d/vegetation/trees/conifers-botd-142076
-### Texturas del suelo:
-- https://assetstore.unity.com/packages/2d/textures-materials/floors/outdoor-ground-textures-12555
+# Enlaces de Assets, Ambientes y Audios Utilizados en el Proyecto:
+### Carros:
+- https://assetstore.unity.com/packages/3d/vehicles/rally-cars-215152
+### Audio:
+- https://opengameart.org/content/car-sound-effects-pack-low-quality
 ### Fondo para el cielo:
 - https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353
-### Objetos para el lago:
-- https://assetstore.unity.com/packages/3d/environments/old-sea-port-environment-36897
+### Particulas:
+- https://assetstore.unity.com/packages/2d/characters/pixel-adventure-1-155360
 
 # Vista General de la Escena
 ![Imagen](https://github.com/DeividN21/Taller_6/blob/main/Captura%20de%20pantalla%202024-06-16%20190520.png?raw=true)

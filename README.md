@@ -17,7 +17,7 @@ Desarrollo de Prototipo de Juego de Autos Cenital
 - https://assetstore.unity.com/packages/2d/characters/pixel-adventure-1-155360
 
 # Vista General de la Escena
-![Imagen](https://github.com/DeividN21/Taller_6/blob/main/Captura%20de%20pantalla%202024-06-16%20190520.png?raw=true)
+![Imagen](https://github.com/DeividN21/Examen_P2/blob/main/Captura%20de%20pantalla%202024-06-21%20000248.png?raw=true)
 
 # Instrucciones para Navegar por la Escena:
 ### Primero:

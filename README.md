@@ -21,23 +21,13 @@ Desarrollo de Prototipo de Juego de Autos Cenital
 
 # Instrucciones para Navegar por la Escena:
 ### Primero:
-Se muestra al personaje, el cual tendrá que ir por el escenario recorriendo los diferentes obstáculos y evitando que los zombies lo asesinen.
+Se muestra al player junto con un contrincante, el cual tendrá que ir por el escenario recorriendo la pista y tratando de ganar.
 Para su movimiento se usan las flechas o las teclas AWSD.
 
 ![Imagen](https://github.com/DeividN21/Taller_2/blob/main/Instrucciones1.png?raw=true)
 
 #
-Puede saltar con la barra espaciadora.
-
-![Imagen](https://github.com/DeividN21/Taller_3/blob/main/Tanque3.png?raw=true)
-
-#
-Puede agacharse con la tecla "Ctrl" izquierdo.
-
-![Imagen](https://github.com/DeividN21/Taller_5/blob/main/ctrl_button.jpg?raw=true)
-
-#
-Puede correr con la tecla "Shift".
+Puede ir más rápido o activar el nitro con la tecla "Shift".
 
 ![Imagen](https://github.com/DeividN21/Taller_5/blob/main/shift_button.jpg?raw=true)
 

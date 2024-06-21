@@ -36,7 +36,4 @@ Puede correr con la tecla "Shift".
 
 
 # Enlace del Video de Demostración
-- enlace
-  
-# Enlace de Videojuego subido a itch.io
-- enlace
+- https://youtu.be/oFPUMl4jKNc
